@@ -7,7 +7,7 @@
 
 ---
 
-🌐 [[Portfolio Website]](https://naveenpportfolio.vercel.app/) | 💼 [[LinkedIn Profile Link]](https://www.linkedin.com/in/naveen-p-143657399/) | 📧 [naveenp.24  cse@kongu.edu]
+🌐 [Portfolio Website](https://naveenpportfolio.vercel.app/) | 💼 [LinkedIn Profile](https://www.linkedin.com/in/naveen-p-143657399/) | 📧 [naveenp.24cse@kongu.edu](mailto:naveenp.24cse@kongu.edu)
 
 </div>
 
@@ -25,9 +25,6 @@ I am a forward-thinking digital builder focused on bridging the gap between **ro
 
 ## 🛠️ Tech Ecosystem
 
----
-
-
 <table>
   <tr>
     <td align="center" width="25%"><strong>📐 UI/UX Design</strong></td>
@@ -37,7 +34,7 @@ I am a forward-thinking digital builder focused on bridging the gap between **ro
   </tr>
   <tr>
     <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/><br/>>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
     </td>
     <td align="center" valign="top">
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/><br/>
@@ -56,7 +53,6 @@ I am a forward-thinking digital builder focused on bridging the gap between **ro
 </table>
 
 ---
----
 
 ## 📊 Analytics Dashboard
 
@@ -68,7 +64,13 @@ I am a forward-thinking digital builder focused on bridging the gap between **ro
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenp6655&layout=compact&theme=tokyonight&hide_border=true" height="150em" alt="Top Languages" />
+  <img src="https://leetcard.jacoblin.cool/NAVEENP_24CSR202?theme=dark&font=Fira%20Code" height="160em" alt="Naveen's LeetCode Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenp6655&layout=compact&theme=tokyonight&hide_border=true" height="160em" alt="Top Languages" />
 </div>
 
 ---
