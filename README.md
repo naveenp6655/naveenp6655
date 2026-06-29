@@ -1,6 +1,7 @@
 <div align="center">
 
-# ⚡ Hi, I'm Naveen P ⚡
+# ⚡ Hello, I'm Naveen P ⚡
+
 ### ✨ Full-Stack Engineer & UI/UX Designer ✨
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffda14&center=true&vCenter=true&width=500&lines=Building+scalable+systems...;Designing+pixel-perfect+UIs...;Turning+ideas+into+production+code..." alt="Typing SVG" />
