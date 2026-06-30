@@ -3,7 +3,7 @@
 # ⚡ Hello, I'm Naveen P ⚡
 ### ✨ Full-Stack Engineer & UI/UX Designer ✨
 
-[<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffda14&center=true&vCenter=true&width=500&lines=Building+UI/IX Design...;Designing+pixel-perfect+UIs...;Turning+ideas+into+production+code..." alt="Typing SVG" />](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffda14&center=true&vCenter=true&width=500&lines=Building+UI/UX+Design...;Designing+pixel-perfect+UIs...;Turning+ideas+into+production+code...)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFDA14&center=true&vCenter=true&width=500&lines=Building+UI%2FUX+Design...;Designing+Pixel-Perfect+UIs...;Turning+Ideas+Into+Production+Code...)](https://readme-typing-svg.demolab.com)
 
 ---
 
