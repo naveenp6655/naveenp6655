@@ -57,7 +57,7 @@ I am a forward-thinking digital builder focused on bridging the gap between **ro
 ## 📊 Analytics Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveenp6655&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180em" alt="Naveen's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naveenp6655&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180em"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenp6655&theme=tokyonight&hide_border=true" height="180em" alt="Naveen's GitHub Streak" />
 </div>
 
