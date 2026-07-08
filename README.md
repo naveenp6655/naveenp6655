@@ -1,80 +1,140 @@
 <div align="center">
 
-# ⚡ Hello, I'm Naveen P ⚡
-### ✨ Full-Stack Engineer & UI/UX Designer. ✨
+# 👋 Hello, I'm Naveen P
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFDA14&center=true&vCenter=true&width=500&lines=Building+UI%2FUX+Design...;Designing+Pixel-Perfect+UIs...;Turning+Ideas+Into+Production+Code...)](https://readme-typing-svg.demolab.com)
+### 🚀 Flutter Developer | Full-Stack Developer | UI/UX Designer
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=FFDA14&center=true&vCenter=true&width=650&lines=Flutter+Developer;Full-Stack+Developer;UI%2FUX+Designer;Building+Beautiful+Mobile+Apps;Always+Learning+New+Technologies" />
 
-🌐 [Portfolio Website](https://naveenpportfolio.vercel.app/) | 💼 [LinkedIn Profile](https://www.linkedin.com/in/naveen-p-143657399/) | 📧 [naveenp.24cse@kongu.edu](mailto:naveenp.24cse@kongu.edu)
+<br>
+
+<a href="https://naveenpportfolio.vercel.app">
+<img src="https://img.shields.io/badge/🌐 Portfolio-black?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/naveen-p-143657399/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/naveenp6655">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:naveenp.24cse@kongu.edu">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I am a forward-thinking digital builder focused on bridging the gap between **robust backend architectures** and **clean, mesmerizing user interfaces**. I don't just write code; I craft digital experiences.
+💡 Passionate about building modern mobile and web applications with clean UI and scalable architecture.
 
-* 🧠 **Currently Mastering:** Advanced System Design, Cloud Deployments, and AI-driven workflows.
-* 🛠️ **Core Philosophy:** Keep it simple, make it scalable, make it beautiful.
-* ⚡ **Fun Fact:** I spend just as much time analyzing user psychology (for UI layouts) as I do debugging edge cases.
-
----
-
-## 🛠️ Tech Ecosystem
-
-<table>
-  <tr>
-    <td align="center" width="25%"><strong>📐 UI/UX Design</strong></td>
-    <td align="center" width="25%"><strong>🎨 Frontend</strong></td>
-    <td align="center" width="25%"><strong>⚙️ Backend</strong></td>
-    <td align="center" width="25%"><strong>📦 Version Control</strong></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+- 🎓 B.E. Computer Science Engineering
+- 📱 Flutter Developer
+- 💻 Full-Stack Developer
+- 🎨 UI/UX Designer
+- 🤖 Exploring AI & Cloud Technologies
+- 🌱 Always learning something new
+- ⚡ Love solving real-world problems through technology
 
 ---
 
-## 📊 Analytics Dashboard
+# 🛠 Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart"/>
+</p>
+
+### 📱 Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter"/>
+</p>
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+</p>
+
+### ⚙ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i= --"/>
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+</p>
+
+### 🎨 Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma"/>
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio"/>
+</p>
+
+---
+
+# 💻 LeetCode
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveenp6655&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180em"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenp6655&theme=tokyonight&hide_border=true" height="180em" alt="Naveen's GitHub Streak" />
+
+<img src="https://leetcard.jacoblin.cool/NAVEENP_24CSR202?theme=dark&font=Fira%20Code"/>
+
 </div>
 
-<br/>
+---
+# 🐙 GitHub Activity
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/NAVEENP_24CSR202?theme=dark&font=Fira%20Code" height="160em" alt="Naveen's LeetCode Stats" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveenp6655&theme=github_dark" />
+
 </div>
 
-<br/>
+# 📫 Connect With Me
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenp6655&layout=compact&theme=tokyonight&hide_border=true" height="160em" alt="Top Languages" />
+
+<a href="https://github.com/naveenp6655">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/naveen-p-143657399/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://naveenpportfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
+</a>
+
+<a href="mailto:naveenp.24cse@kongu.edu">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
-  <sub>Layout designed with ❤️ by Naveen P. </sub>
+
+![](https://komarev.com/ghpvc/?username=naveenp6655&style=for-the-badge&color=blue)
+
+### ⭐ Thanks for visiting my profile!
+
+### 💙 "Code • Create • Innovate"
+
 </div>
