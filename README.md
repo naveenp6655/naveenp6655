@@ -135,6 +135,4 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-### 💙 "Code • Create • Innovate"
-
 </div>
