@@ -38,8 +38,6 @@
 - 🎨 UI/UX Designer
 - 🤖 Exploring AI & Cloud Technologies
 - 🌱 Always learning something new
-- ⚡ Love solving real-world problems through technology
-
 ---
 
 # 🛠 Tech Stack
