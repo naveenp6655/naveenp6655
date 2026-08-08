@@ -81,7 +81,7 @@
 ### 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio"/>
+<img src="https://skillicons.dev/icons?i=github,vscode,androidstudio"/>
 </p>
 
 ---
